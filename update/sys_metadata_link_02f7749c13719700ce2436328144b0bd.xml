@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
     <sys_metadata_link action="INSERT_OR_UPDATE">
         <directory>update</directory>
         <documentkey>dead1309c611228701e2bda7b4252474</documentkey>
@@ -45,5 +46,6 @@
         <sys_updated_by>mansi.takaffoli@snc</sys_updated_by>
         <sys_updated_on>2018-04-26 20:57:53</sys_updated_on>
         <tablename>sys_app_application</tablename>
+        <u_sha/>
     </sys_metadata_link>
 </record_update>

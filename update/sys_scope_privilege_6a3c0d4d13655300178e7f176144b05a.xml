@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
     <sys_scope_privilege action="INSERT_OR_UPDATE">
         <operation>execute</operation>
         <source_scope display_value="MetricBase Thing Monitor">d329ed9013815700178e7f176144b0aa</source_scope>
@@ -18,5 +19,6 @@
         <target_name>ScriptableRESTMessageClient.setRequestBody</target_name>
         <target_scope display_value="Global">global</target_scope>
         <target_type>scriptable</target_type>
+        <u_sha/>
     </sys_scope_privilege>
 </record_update>

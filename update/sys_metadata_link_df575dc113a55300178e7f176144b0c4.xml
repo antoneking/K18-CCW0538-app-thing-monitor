@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
     <sys_metadata_link action="INSERT_OR_UPDATE">
         <directory>update</directory>
         <documentkey>fb08090ddb2113009f67b6d1ba96195f</documentkey>
@@ -29,5 +30,6 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-16 20:54:48</sys_updated_on>
         <tablename>x_snc_mbts_monitor_tanks</tablename>
+        <u_sha/>
     </sys_metadata_link>
 </record_update>

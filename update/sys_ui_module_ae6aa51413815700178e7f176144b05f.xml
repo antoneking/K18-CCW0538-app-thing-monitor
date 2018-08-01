@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="Tanks">6e6aa51413815700178e7f176144b044</application>
@@ -23,6 +24,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-03-20 17:51:12</sys_updated_on>
         <table>x_snc_mbts_monitor_tanks</table>
+        <u_sha/>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>

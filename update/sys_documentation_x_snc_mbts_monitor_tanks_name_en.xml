@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_documentation element="name" label="name" language="en" table="x_snc_mbts_monitor_tanks">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>name</element>
@@ -20,6 +21,7 @@
             <sys_update_name>sys_documentation_x_snc_mbts_monitor_tanks_name_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-04-26 18:49:12</sys_updated_on>
+            <u_sha/>
             <url/>
             <url_target/>
         </sys_documentation>

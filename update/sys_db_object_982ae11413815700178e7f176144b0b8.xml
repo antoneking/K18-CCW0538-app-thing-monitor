@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access>public</access>
         <actions_access>false</actions_access>
@@ -31,6 +32,7 @@
         <sys_update_name>sys_db_object_982ae11413815700178e7f176144b0b8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-03-20 17:51:11</sys_updated_on>
+        <u_sha/>
         <update_access>false</update_access>
         <user_role display_value="x_snc_mbts_monitor.tanks_user" name="x_snc_mbts_monitor.tanks_user">226a611413815700178e7f176144b069</user_role>
         <ws_access>true</ws_access>

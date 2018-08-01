@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metric">
+    <sys_metric action="INSERT_OR_UPDATE">
+        <auto_promote>false</auto_promote>
+        <dv_aggregator>last</dv_aggregator>
+        <dv_resample_hr>1</dv_resample_hr>
+        <element>temperature</element>
+        <label>Temperature</label>
+        <name>x_snc_mbts_monitor_pumps</name>
+        <retention_policy display_value="Dense">c742acc05b33220066c1290291f91a6d</retention_policy>
+        <subject_field>sys_id</subject_field>
+        <sys_class_name>sys_metric</sys_class_name>
+        <sys_created_by>cai.dev</sys_created_by>
+        <sys_created_on>2018-08-01 02:01:05</sys_created_on>
+        <sys_id>b2e59013dba71300a25f1fc768961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Temperature</sys_name>
+        <sys_package display_value="MetricBase Thing Monitor" source="x_snc_mbts_monitor">d329ed9013815700178e7f176144b0aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MetricBase Thing Monitor">d329ed9013815700178e7f176144b0aa</sys_scope>
+        <sys_update_name>sys_metric_b2e59013dba71300a25f1fc768961959</sys_update_name>
+        <sys_updated_by>cai.dev</sys_updated_by>
+        <sys_updated_on>2018-08-01 02:01:05</sys_updated_on>
+        <u_sha/>
+    </sys_metric>
+</record_update>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_mbts_monitor_pumps" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -85,6 +86,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-04-27 22:48:13</sys_updated_on>
             <sys_user/>
+            <u_sha/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>
